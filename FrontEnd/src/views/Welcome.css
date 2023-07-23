@@ -1,0 +1,26 @@
+/* .Home{
+    background-image: url(/src/images/backgrondProject.webp);
+    background-size:cover;
+} */
+.btn{
+    border-style:solid;
+    margin: 2px;
+}
+
+.nav-links{
+    color: yellow;
+    text-decoration: none;
+}
+
+.welcome video {
+     position:relative;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    min-width: 100vw;
+    height: 100vh;
+    object-fit: fill;
+    z-index:-1; 
+    
+    
+  }

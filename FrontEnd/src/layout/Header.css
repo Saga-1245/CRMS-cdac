@@ -1,0 +1,15 @@
+/* .navbar {
+  background-color: #f0e4af;
+  opacity: 0.5;
+} */
+
+ .navbar {
+  background-color:black;
+  opacity: 1;
+  
+} 
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600;800&family=Baloo+Bhaijaan+2:wght@700&family=Imperial+Script&family=Open+Sans:ital,wght@1,800&display=swap');
+.title{
+  color: chartreuse;
+  
+}
